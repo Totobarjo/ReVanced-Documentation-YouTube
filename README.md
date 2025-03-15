@@ -1,3 +1,4 @@
+#ReVanced Manager
 🔹 Fiabilité de ReVanced Manager
 📌 Qu'est-ce que c'est ?
 ReVanced Manager est une application qui permet de patcher manuellement YouTube (et d'autres applications comme YouTube Music) pour y ajouter les fonctionnalités de ReVanced.
@@ -7,9 +8,10 @@ ReVanced Manager est une application qui permet de patcher manuellement YouTube 
 ⛔ Non, si tu télécharges depuis des sites non officiels ou des APK modifiés (risque de malware ou vol de données).
 
 📌 Source officielle :
-👉 [GitHub officiel de ReVanced](https://github.com/ReVanced)
+👉 [GitHub officiel de ReVanced](https://github.com/ReVanced)\
 
 
+#MicroG
 🔹 Fiabilité de MicroG
 📌 Qu'est-ce que c'est ?
 MicroG est un projet open-source qui remplace certaines fonctionnalités des services Google Play, notamment pour permettre la connexion à un compte Google sur des applications modifiées comme YouTube ReVanced.
