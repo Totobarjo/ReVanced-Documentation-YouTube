@@ -7,7 +7,7 @@ ReVanced Manager est une application qui permet de patcher manuellement YouTube 
 ⛔ Non, si tu télécharges depuis des sites non officiels ou des APK modifiés (risque de malware ou vol de données).
 
 📌 Source officielle :
-👉 GitHub officiel de ReVanced (https://github.com/ReVanced)
+👉 [GitHub officiel de ReVanced](https://github.com/ReVanced)
 
 
 🔹 Fiabilité de MicroG
@@ -19,7 +19,7 @@ MicroG est un projet open-source qui remplace certaines fonctionnalités des ser
 ⛔ Prudence, toujours télécharger depuis le site officiel ou le dépôt GitHub.
 
 📌 Source officielle :
-👉 GitHub officiel de MicroG (https://github.com/microg/GmsCore)
+👉 [GitHub officiel de MicroG](https://github.com/microg/GmsCore)
 
 # Quick links
 
