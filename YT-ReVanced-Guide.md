@@ -12,9 +12,9 @@ Last updated: Jan 19, 2025
 
 ### **1. Getting the APKs**
 
-**1.1)** Download and install [ReVanced Manager](https://revanced.app/download). (If you already have it installed, make sure it is the latest version.) <br>
-**1.2)** <u>PERSO</u> : Pour choisir la bonne version à télécharger => Regarder la version suggérée par ReVanced Manager (voir l'image au-dessus). <br>
-Dans notre exemple, c'est la version 19.47.53 de YouTube qui est suggérée => Il faut donc télécharger cette version sur le site https://www.apkmirror.com <br>
+**1.1)** Download and install [ReVanced Manager](https://revanced.app/download). (If you already have it installed, make sure it is the latest version.)
+**1.2)** <u>PERSO</u> : Pour choisir la bonne version à télécharger => Regarder la version suggérée par ReVanced Manager (voir l'image au-dessus).
+Dans notre exemple, c'est la version 19.47.53 de YouTube qui est suggérée => Il faut donc télécharger cette version sur le site https://www.apkmirror.com
 **1.3)** Download, but do **NOT** install this [YouTube 19.47.53 APK](https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-47-53-release/youtube-19-47-53-android-apk-download/). (This is the currently suggested YouTube APK for patching.) <br>
 
 > For a more robust method of downloading the YouTube APK, see the footnotes.[^1]
