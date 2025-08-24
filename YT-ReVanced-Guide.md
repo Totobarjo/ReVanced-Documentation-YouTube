@@ -23,6 +23,7 @@ Last updated: Jan 19, 2025
 <img src="images/yt-revanced-guide/Suggested%20version%20PERSO.png" width="280"/>
 
 Dans notre exemple, c'est la version 19.47.53 de YouTube qui est suggérée => Il faut donc télécharger cette version sur le site https://www.apkmirror.com
+/!\ Toujours prendre la version **nodpi**
 
 **1.3)** Download, but do **NOT** install this [YouTube 19.47.53 APK](https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-47-53-release/youtube-19-47-53-android-apk-download/). (This is the currently suggested YouTube APK for patching.) <br>
 
