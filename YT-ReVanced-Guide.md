@@ -15,7 +15,7 @@ Last updated: Jan 19, 2025
 **1.1)** Download and install [ReVanced Manager](https://revanced.app/download). (If you already have it installed, make sure it is the latest version.)
 
 **1.2)** <mark>**PERSO**</mark> : Pour choisir la bonne version à télécharger sur https://www.apkmirror.com => Regarder la version suggérée par ReVanced Manager : <br>
-. Ouvrir ReVanced Manager <br>
+. Sur le téléphone, ouvrir ReVanced Manager <br>
 . En bas, aller dans "Patcheur" <br>
 . Appuyer sur "Sélectionner une application" <br>
 . Chercher YouTube et regadrer la version suggérée <br>
