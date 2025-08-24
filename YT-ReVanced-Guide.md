@@ -16,7 +16,7 @@ Last updated: Jan 19, 2025
 
 **1.2)** <mark>**PERSO**</mark> : Pour choisir la bonne version à télécharger => Regarder la version suggérée par ReVanced Manager :
 
-<img src="/images/yt-revanced-guide/select-from-storage2.png" width="280"/>
+<img src="images/yt-revanced-guide/Suggested%20version%20PERSO.png" width="280"/>
 
 Dans notre exemple, c'est la version 19.47.53 de YouTube qui est suggérée => Il faut donc télécharger cette version sur le site https://www.apkmirror.com
 
