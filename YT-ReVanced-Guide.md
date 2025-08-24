@@ -29,7 +29,7 @@ Last updated: Jan 19, 2025
 
 **2.3)** Go to the Patcher tab and press Select an app. Then, press **Storage**
 
-<img src="/images/yt-revanced-guide/select-from-storage.png" width="280"/>
+<img src="/images/yt-revanced-guide/select-from-storage2.png" width="280"/>
 
 **2.4)** Select the YouTube APK you just downloaded. (It will likely be in your Downloads folder.)
 
