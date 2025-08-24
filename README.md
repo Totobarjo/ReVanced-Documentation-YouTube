@@ -1,5 +1,6 @@
 # Guide d'installation PERSO
-👉 [GitHub officiel de ReVanced]([https://github.com/ReVanced](https://github.com/Totobarjo/ReVanced-Documentation-YouTube/blob/main/YT-ReVanced-Guide.md)
+👉 [Guide d'installation PERSO](https://github.com/Totobarjo/ReVanced-Documentation-YouTube/blob/main/YT-ReVanced-Guide.md)
+<br/>
 
 # ReVanced Manager
 🔹 Fiabilité de ReVanced Manager
